@@ -1,0 +1,20 @@
+CACHE MANIFEST
+# dom36
+
+#v2
+
+../img/favicon.ico
+../lib/bootstrap/css/bootstrap.min.css
+../index.css
+../lib/jquery/jquery-2.1.4.min.js
+../lib/bootstrap/js/tether.min.js
+../lib/bootstrap/js/bootstrap.min.js
+util.js
+utilLevel.js
+speed.js
+../img/home-black.png
+resVoice.js
+data/successitapConfig.js
+keyboard.js
+dom36.js
+../img/audio-black.png

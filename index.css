@@ -1,0 +1,156 @@
+.dru-good-char {
+  color: rgb(0, 0, 0);
+  color: HSLA(121,40%,54%,1);
+
+}
+
+.dru-bad-char {
+  color: rgb(0, 0, 0);
+  color: HSLA(35,84%,62%,1);
+
+}
+
+.no-selmenu {
+  -webkit-touch-callout:none;
+  -webkit-user-select:none;
+  -khtml-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  user-select:none;
+  -webkit-tap-highlight-color:rgba(0,0,0,0);
+}
+
+.dru-center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.dru-center {
+  text-align: center;
+}
+/*
+.dru-text-title {
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  color: HSLA(0,0%,25%,1)!important;
+}
+*/
+.dru-text {
+  position: relative;
+  top: 0.4rem;
+  text-align: center;
+  font-size: 1.2rem;
+  color: rgb(0, 0, 0);
+  color: HSLA(121,70%,45%,1);
+  font-weight: bold;
+}
+
+.dru-text2 {
+  position: relative;
+  top: 0.4rem;
+  text-align: center;
+  font-size: 1.2rem;
+  color: rgb(0, 0, 0);
+  color: HSLA(121,70%,45%,1);
+  font-weight: bold;
+}
+
+.dru-dashboard {
+  position: relative;
+  top: 0.4rem;
+  text-align: center;
+  font-size: 1rem;
+  /*line-height: 50%;
+  color: rgb(0, 0, 0);
+  //color: HSLA(121,70%,45%,1);
+  font-weight: bold;*/
+}
+
+
+/*     -----------  C O L O R S  */
+h4 {
+  color: rgb(0, 0, 0);
+  color: hsl( 0, 0%, 30% );
+}
+
+.dru-white {
+  color: rgb(0, 0, 0);
+  color: HSLA(0,0%,100%,1);
+}
+.dru-black {
+  color: rgb(0, 0, 0);
+  color: HSLA(0,0%,0%,1);
+}
+.dru-green {
+  color: rgb(0, 0, 0);
+  color: HSLA(121,40%,54%,1);
+}
+.dru-blue {
+  color: rgb(0, 0, 0);
+  color: HSLA(194,66%,61%,1);
+}
+.dru-orange {
+  color: rgb(0, 0, 0);
+  color: HSLA(35,84%,62%,1);
+}
+.back0-dru-green {
+  background-color: rgb(0, 0, 0);
+  background-color: HSLA(121,40%,54%,1);
+}
+.back0-dru-blue {
+  background-color: rgb(0, 0, 0);
+  background-color: HSLA(194,66%,61%,1);
+}
+.back0-dru-orange {
+  background-color: rgb(0, 0, 0);
+  background-color: HSLA(35,84%,62%,1);
+}
+.back-dru-green {
+  background-color: rgb(0, 0, 0);
+  background-color: HSLA(121,40%,54%,1);
+  color: rgb(0, 0, 0);
+  color: white;
+}
+.back-dru-blue {
+  background-color: rgb(0, 0, 0);
+  background-color: HSLA(194,66%,61%,1);
+  color: white;
+}
+.back-dru-orange {
+  background-color: rgb(0, 0, 0);
+  background-color: HSLA(35,84%,62%,1);
+  color: white;
+}
+.back-dru-dark-gray {
+  background-color: rgb(0, 0, 0);
+  background-color: HSLA(0,0%,20%,1);
+  color: white;
+}
+
+.background-clavier {
+  background-color: rgb(0, 0, 0);
+  background-color: HSLA(45, 30%, 60%,1);
+}
+
+
+/* ---------------------  */
+blockquote {
+  padding: 1rem;
+  text-align: center;
+}
+h5 {
+  position: relative;
+  top: -0.5rem;
+}
+
+/* prevent vertical scrool
+html {
+    height  : 100%;
+    overflow: hidden;
+}
+body {
+    height  : 100%;
+    overflow: auto;
+}
+*/
